@@ -4,7 +4,7 @@ Bird Species Detection is a project which predicts the Bird Specie name by givin
 ### DATASET:
 we used BirdSpecies Dataset. cleaned and prepared it according to our project.The cleaned dataset is kept in preparedData folder whcih can be used directly without downloading BirdSpecies dataset.
 
-#RUN THE PROJECT:
+### RUN THE PROJECT:
 1. Get all the data from the GitHub, Open Command prompt or any other Terminal and run the command :    
 \$git clone https://github.com/sandhyayerra/BIRD-SPECIES-DETECTION.git
 
