@@ -6,7 +6,7 @@ we used BirdSpecies Dataset. cleaned and prepared it according to our project.Th
 
 ###RUN THE PROJECT:
 1. Get all the data from the GitHub, Open Command prompt or any other Terminal and run the command :    
-\$git clone https://github.com/tanujavaishnavi/detection_of_fatigue_in_drivers.git
+\$git clone https://github.com/sandhyayerra/BIRD-SPECIES-DETECTION
 
 2. Download the train and test Datasets in preparedDataset
 
